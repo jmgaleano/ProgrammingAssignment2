@@ -19,7 +19,7 @@ makeCacheMatrix <- function(x = numeric()) {
     cache <<- NULL
   }
   
-  # returns the stored matrix
+  # returns-stored matrix
   getMatrix <- function() {
     x
   }
